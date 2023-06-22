@@ -14,3 +14,5 @@ There are four functions written to control the microcontroller.
 In actuator potentiometer values are ranging from 0 to 10K Ohm resistance, these resistances give a 
 voltage range of 0 to 5V. The value 0 to 5V range is mapped to a value of 0 to 4095 (2^12 bit 
 resolution). STM32 has a 12-bit resolution ADC. The value between 2042 and 2052 is mid-range.
+![Screenshot 2023-06-07 112401](https://github.com/gauman/Control-the-postion-of-linear-actuator/assets/78633686/02fba615-e244-4901-84d7-42b26d85ae1f)
+![9-STM32-pinout-diagram](https://github.com/gauman/Control-the-postion-of-linear-actuator/assets/78633686/0daac3d5-db35-46be-a3cc-bf080f6737b5)
